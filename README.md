@@ -1,2 +1,2 @@
 # The-Call-Detector
-The 'Call Detector' project is a compact circuit utilizing computer architecture to detect mobile phone activities like incoming calls and messages. It addresses security concerns, catering to increasing demands for unauthorized transmission detection and prevention.
+The project “The call Detector” is a simple circuit based on computer architecture used to detect the activation of a mobile phone such as incoming and ongoing phone calls, messages, and things of that nature. Mobile phone detectors can be used for spying on someone and for unauthorized video transmission. With the rising security issues, the demands for such types of detectors have been increasing, so this would be useful for that purpose.
